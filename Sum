@@ -1,0 +1,14 @@
+class Sum
+{
+  public static void main(String[]args)
+  { 
+     int num1,sum;
+     float num2;
+     
+     num1=5;
+     num2=3.4f;
+   
+     sum=num1+(int)num2;
+     System.out.println("Sum of given 2 nos is"+sum);
+  }
+}
